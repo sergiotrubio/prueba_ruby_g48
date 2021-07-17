@@ -1,0 +1,6 @@
+Hola Profe!
+Quería hacerle una petición y es que necesito un poquito mas de plazo para hacer una mejor entrega de la prueba, aparte de lo que hicimos ese día en clase no pude avanzar casi nada hasta hoy porque me mudé con mi esposa y mi hija esta semana a Malta. Quisierapoder revisar un par de cosas y ver el video de métodos a ver si puedo mejorarlo (las últimas 3 semanas estuvimos en turquia haciendo cuarentena obligatoria como pais corredor y me complicó demasiado conectarme ver el contenido online porque el servidor de vimeo no corre en turkia entonces no podía ver los videos para repasar, hasta que encontré la solución de la vpn virtual de tunnelbear, pero alli fue cuando tuve la segunda barrera: ¡la velocidad de conexión era una cagada!, andaba a tope con 4mbps, cuando estaba realmente bien. 
+
+hasta que hora podría ser hoy domingo? quisiera poder ver las clases que me perdí y repasar un poquito el tema que fue mi punto debil la vez pasada que fue lo de los hashes, así saco la pregunta bonus.
+
+Gracias!
