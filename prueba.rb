@@ -22,7 +22,6 @@ def build_web_page
         photo = hash_rover["photos"][f]["img_src"]
         lista += "\t\t<li><img width='250' height='300' src=\"#{photo}\"></li>\n"
     end
-    puts m
 result = "<!DOCTYPE html>\n<html>\n<head>\n</head>\n<body>\n\t<ul>\n#{lista}\t</ul>\n</body>\n</html>"
 end
 
